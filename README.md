@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼ ᴀɪ ʙᴏᴛ 𓅂</b></h1>
-<h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
+<h1 align="center"><img src="./.github/a94aee835e16cff4f14c83dac8ffbe10.gif" /></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
