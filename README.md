@@ -5,6 +5,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼ ᴀɪ ʙᴏᴛ 𓅂</b></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼ ᴀɪ ʙᴏᴛ 𓅂+──;Fᴏʀᴋ+ᴀɴᴅ+ɢɪᴠᴇ+sᴛᴀʀᴛ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ.&width=600&height=180">
+</div>
 <h1 align="center"><img src="./.github/a94aee835e16cff4f14c83dac8ffbe10.gif" /></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
