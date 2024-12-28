@@ -14,8 +14,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼ ᴀɪ ʙᴏᴛ 𓅂+──;Fᴏʀᴋ+ᴀɴᴅ+ɢɪᴠᴇ+sᴛᴀʀᴛ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ.&width=600&height=180" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&vCenter=true&lines=──+˹+ʙᴀʙʏ-ᴍᴜsɪᴄ+™˼+ᴀɪ+ʙᴏᴛ+𓅂+──;Fᴏʀᴋ+ᴀɴᴅ+ɢɪᴠᴇ+sᴛᴀʀ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ.&width=600&height=180" alt="Typing SVG">
 </div>
+
 
 <h1 align="center">
   <img src="./.github/a94aee835e16cff4f14c83dac8ffbe10.gif" alt="Center GIF">
