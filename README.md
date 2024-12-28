@@ -41,11 +41,25 @@
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
-<p align="center">
-<a href="https://t.me/+OL6jdTL7JAJjYzVl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+<!-- Support Group -->
+<details>
+  <summary>Tap to show Support Group</summary>
+  <br>
+  <p align="center">
+    <a href="https://t.me/+OL6jdTL7JAJjYzVl">
+      <img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram" alt="Support Group">
+    </a>
+  </p>
+</details>
 
-<p align="center">
-<a href="https://t.me/BABY09_WORLD"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+<!-- Support Channel -->
+<details>
+  <summary>Tap to show Support Channel</summary>
+  <br>
+  <p align="center">
+    <a href="https://t.me/BABY09_WORLD">
+      <img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram" alt="Support Channel">
+    </a>
+  </p>
+</details>
 
