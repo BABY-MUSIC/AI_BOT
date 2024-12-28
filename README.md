@@ -29,12 +29,13 @@
 ➱  Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
 
 <details>
-  <summary>Tᴀᴘ ᴛᴏ sʜᴏᴡ ʙᴜᴛᴛᴏɴ/summary>
+  <summary>Tᴀᴘ ᴛᴏ sʜᴏᴡ ʙᴜᴛᴛᴏɴ</summary>
   <br>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-MUSIC/AI_BOT">
       <img src="https://img.shields.io/badge/Deploy_to_Heroku-red?style=for-the-badge&logo=heroku&logoColor=green" alt="Deploy to Heroku">
   </a>
 </details>
+
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
