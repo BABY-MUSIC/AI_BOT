@@ -26,12 +26,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF Image">
 </div>
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+➱  Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
 
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OWNERSYSTUMM/Vikky"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<details>
+  <summary>Tᴀᴘ ᴛᴏ sʜᴏᴡ ʙᴜᴛᴛᴏɴ/summary>
+  <br>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-MUSIC/AI_BOT">
+      <img src="https://img.shields.io/badge/Deploy_to_Heroku-red?style=for-the-badge&logo=heroku&logoColor=green" alt="Deploy to Heroku">
+  </a>
+</details>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
