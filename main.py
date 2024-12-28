@@ -28,16 +28,16 @@ async def start_command(bot, message):
 
         
         await message.reply_text(
-            "👋 **Welcome to AI Bot!**\n\n"
+            "Hey i am AI Bot!**\n\n"
             "I can answer your queries and assist you. Just type your message to get started.\n\n"
             "Use me wisely and have fun!\n\n"
-            f"🔹 Maintained by [Baby-Music]({SUPPORT_LINK})",
+            f"🔹 Mᴀᴅᴇ ʙʏ [˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼𓅂]🔹",
             reply_markup=buttons,
             parse_mode=ParseMode.MARKDOWN
         )
     except Exception as e:
         print(f"Error in /start command: {e}")
-        await message.reply_text("❍ ᴇʀʀᴏʀ: Unable to process the command.")
+        await message.reply_text("Error: Unable to process the command.")
 
 
 @app.on_message(filters.text)
@@ -80,13 +80,13 @@ async def handle_messages(bot, message):
                     parse_mode=ParseMode.MARKDOWN
                 )
             else:
-                await message.reply_text("❍ ᴇʀʀᴏʀ: No response from API.")
+                await message.reply_text("Error: No response from API.")
         else:
-            await message.reply_text(f"❍ ᴇʀʀᴏʀ: API request failed. Status code: {response.status_code}")
+            await message.reply_text(f"Error: API request failed. Status code: {response.status_code}")
 
     except Exception as e:
         print(f"Error: {e}")
-        await message.reply_text(f"❍ ᴇʀʀᴏʀ: {e}")
+        await message.reply_text(f"Error: {e}")
 
 
 
