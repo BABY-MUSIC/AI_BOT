@@ -1,3 +1,44 @@
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      fill: url(#gradient);
+      animation: typing 4s steps(40, end), blink 0.5s step-end infinite alternate;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    @keyframes blink {
+      from {
+        border-right-color: rgba(255, 255, 255, 0.75);
+      }
+      to {
+        border-right-color: transparent;
+      }
+    }
+  </style>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: blue; stop-opacity: 1;" />
+      <stop offset="50%" style="stop-color: white; stop-opacity: 1;" />
+      <stop offset="100%" style="stop-color: blue; stop-opacity: 1;" />
+    </linearGradient>
+  </defs>
+  <text x="10" y="50" class="text">
+    ── ˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼ ᴀɪ ʙᴏᴛ 𓅂 ──
+  </text>
+</svg>
+
+
+
 # 𝗔𝗜 𝗕𝗢𝗧
 
 <p align="center">
