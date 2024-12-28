@@ -36,14 +36,12 @@
   </a>
 </details>
 
-
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
-<!-- Support Group -->
 <details>
-  <summary>Tap to show Support Group</summary>
+  <summary>Tᴀᴘ ᴛᴏ ᴏᴘᴇɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</summary>
   <br>
   <p align="center">
     <a href="https://t.me/+OL6jdTL7JAJjYzVl">
@@ -52,9 +50,8 @@
   </p>
 </details>
 
-<!-- Support Channel -->
 <details>
-  <summary>Tap to show Support Channel</summary>
+  <summary>Tᴀᴘ ᴛᴏ sʜᴏᴡ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ</summary>
   <br>
   <p align="center">
     <a href="https://t.me/BABY09_WORLD">
