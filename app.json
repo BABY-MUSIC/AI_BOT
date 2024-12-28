@@ -1,7 +1,7 @@
 {
   "name": "AI Telegram Bot",
   "description": "A Telegram bot powered by OpenAI to assist with queries.",
-  "repository": "https://github.com/OWNERSYSTUMM/AI_BOT",
+  "repository": "https://github.com/BABY-MUSIC/AI_BOT",
   "stack": "container",
   "logo": "https://files.catbox.moe/m7qmnv.jpg",
   "keywords": ["telegram", "bot", "openai", "ai"],
